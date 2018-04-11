@@ -2,6 +2,7 @@
   "name": "react-multiple-ajax",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://anton072.github.io/redux-multiple-ajax-sample/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.1",
